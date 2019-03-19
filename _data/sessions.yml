@@ -26,3 +26,11 @@
   speakers: [2]
   language: en
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+
+  id: 004
+  title: "presentation 3"
+  description: "info here"
+  subtype: presentation
+  speakers: [3]
+  language: en
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"

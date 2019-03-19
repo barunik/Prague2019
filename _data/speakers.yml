@@ -20,3 +20,15 @@
   rockstar: true
   social: 
     - {name: "github", link: "www.quantlet.de"}
+
+- 
+  id: 3
+  name: "Milos"
+  surname: "Kopa"
+  company: "MFF UK"
+  title: "Associate Professor"
+  bio: '<p>Bio possibly here</p>'
+  thumbnailUrl: mk.jpg
+  rockstar: true
+  social: 
+    - {name: "github", link: "www.quantlet.de"}
