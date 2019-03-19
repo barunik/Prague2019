@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "STAT of ML 2019"
 email: "barunik@fsv.cuni.cz"
 description: "DyMoDiF - Dynamic Models for the Digital Finance"
-baseurl: "/zeppelin"
+baseurl: "/zeppelin/Prague2019"
 url: "http://barunik.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
@@ -55,7 +55,7 @@ rightNavigationButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "Big-Data-570x300.jpg" #"hero.jpg"
 heroTitle: "STAT of ML <typeout> 2019"
 eventDate: "September 9 - October 2, 2019"
 typeoutTextValues: '"", "EXPRO", "GACR"'
