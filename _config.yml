@@ -29,15 +29,15 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://www.utia.cas.cz/people/barunik"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+#metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+#twitterAccount: "@DevFest"
+#socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+#socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+#socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+#c4pUrl: "https://bit.ly/dfua-c4p"
+#c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
 # Navigation
@@ -80,7 +80,7 @@ aboutBlock:
 # - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+#latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -167,7 +167,7 @@ ticketsOffers:
   buyButtonText: "Buy Now"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
+  validFrom: " -08-20T10:00"
   validThrough: "2014-10-23T23:59"
   soldOut: true
   soldOutText: "Sold Out"
