@@ -107,8 +107,8 @@ mapMobileCenterCoordinates: "50.081664, 14.414200"
 # Venue Block
 venueBlockTitle: "Venue"
 venueBigImage: "venue_0A.jpg"
-venueSmallImage1: "venue_1A"
-venueSmallImage2: "venue_2A"
+venueSmallImage1: "venue_1A.jpg"
+venueSmallImage2: "venue_2A.jpg"
 #venueSmallImage3: "venue_3.jpg"
 venueTitle: "Konferenční sál"
 #venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
