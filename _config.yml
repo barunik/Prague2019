@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "STAT of ML 2019"
 email: "barunik@fsv.cuni.cz"
 description: "DyMoDiF - Dynamic Models for the Digital Finance"
-baseurl: "/zeppelin"
+baseurl: "/Prague2019"
 url: "http://barunik.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
@@ -55,10 +55,10 @@ navigationLinks:
 # - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "Big-Data-570x300.jpg" #hero.jpg"
+heroImage: "sixwaysandco.jpg" # "Meter-Data-Management-Itron.jpg" # Big-Data-570x300.jpg" #hero.jpg"
 heroTitle: "STAT of ML <typeout> 2019"
-eventDate: "September 9 - October 2, 2019"
-typeoutTextValues: '"", "(EXPRO)", "(GACR)"'
+#eventDate: "September 29 - October 2, 2019"
+typeoutTextValues: '"", "(Sep 29 - Oct 2)", ""'
 typeoutFallback: "Season"
 #heroButtons:
 # - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -110,7 +110,7 @@ venueBigImage: "venue_0A.jpg"
 venueSmallImage1: "venue_1A.jpg"
 venueSmallImage2: "venue_2A.jpg"
 #venueSmallImage3: "venue_3.jpg"
-venueTitle: "Konferenční sál"
+venueTitle: "Main Conference Hall"
 #venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
