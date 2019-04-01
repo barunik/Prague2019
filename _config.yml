@@ -58,14 +58,14 @@ navigationLinks:
 heroImage: "sixwaysandco.jpg" # "Meter-Data-Management-Itron.jpg" # Big-Data-570x300.jpg" #hero.jpg"
 heroTitle: "STAT of ML <typeout> 2019"
 #eventDate: "September 29 - October 2, 2019"
-typeoutTextValues: '"", "(Sep 29 - Oct 2)", ""'
-typeoutFallback: "(Sep 29 - Oct 2)"
+typeoutTextValues: '"", "(Sep 30 - Oct 1)", ""'
+typeoutFallback: "(Sep 30 - Oct 1)"
 #heroButtons:
 # - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "Sep 29 - Oct 2, 2019 in Prague"
+aboutTitle: "Sep 30 - Oct 1, 2019 in Prague"
 aboutBlock:
  - {title: "Statistics", image: "conference.jpg", text: "" }
  - {title: "Machine Learning", image: "workshop.jpg", text: "" }
