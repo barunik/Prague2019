@@ -65,11 +65,11 @@ typeoutFallback: "(Sep 29 - Oct 2)"
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "STAT of ML 2019"
+aboutTitle: "Sep 29 - Oct 2, 2019 in Prague"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "descr" }
- - {title: "Info", image: "workshop.jpg", text: "descr" }
-# - {title: "Whatever", image: "hackathon.jpg", "descr" }
+ - {title: "Statistics", image: "conference.jpg", text: "" }
+ - {title: "Machine Learning", image: "workshop.jpg", text: "" }
+ - {title: "Finance", image: "hackathon.jpg", "" }
 
 # Statistic Block
 #statisticBlockImage: "statistic.jpg"
@@ -85,8 +85,8 @@ latestNewsTitle: "Latest news"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 3
-rockstarSpeakersTitle: "Invited speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersTitle: "Organizers"
+rockstarSpeakersButtonText: "All Speakers"
 
 # Location Block
 locationBlockTitle: "Location"
@@ -120,9 +120,9 @@ venueTitle: "Main Conference Hall"
 #twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organizers"
+organizersTitle: "Institutions"
 partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+#partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 #subscribeImage: "subscribe.jpg"
