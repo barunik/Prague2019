@@ -48,7 +48,7 @@ layout: compress
     {% if page.permalink == '/' or page.permalink == '/hackathon/' %}
     <script>
         if ($(window).width() > 767) {
-          document.write('<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAAvWdqQIZimyHGfZ0aKGw3WftTdh9NHpU"><\/script>')
+          document.write('<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAAvWdqQIZimyHGfZ0aKGw3WftTdh9NHpU&callback=initMap"><\/script>')
         } 
     </script>
     {% elsif page.permalink == '/logistics/' %}
