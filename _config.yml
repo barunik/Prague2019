@@ -91,7 +91,7 @@ rockstarSpeakersButtonText: "See all speakers"
 # Location Block
 locationBlockTitle: "Location"
 eventLocationName: "Conference Hall"
-#eventLocationLink: "https://goo.gl/maps/tfSHkxJATdz"
+eventLocationLink: "https://goo.gl/maps/tfSHkxJATdz"
 eventStreetAddress: " Národní 3"
 eventAddressLocality: "Prague 1"
 eventAddressLocalityRegion: "Prague"
