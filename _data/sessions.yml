@@ -12,7 +12,7 @@
 
 -
   id: 002
-  title: "presentation 1"
+  title: ""
   description: "info here"
   subtype: presentation
   speakers: [1]
@@ -20,16 +20,16 @@
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 003
-  title: "presentation 2"
+  title: "presentation"
   description: "info here"
   subtype: presentation
   speakers: [2]
   language: en
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 
-- 
+-
   id: 004
-  title: "presentation 3"
+  title: "presentation"
   description: "info here"
   subtype: presentation
   speakers: [3]

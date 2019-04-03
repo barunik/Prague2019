@@ -1,4 +1,4 @@
-- 
+-
   id: 1
   name: "Jozef"
   surname: "Barunik"
@@ -7,9 +7,9 @@
   bio: "bio possibly here"
   thumbnailUrl: Barunik_profil.jpg
   rockstar: true
-  social: 
+  social:
     - {name: "github", link: "https://github.com/barunik"}
-- 
+-
   id: 2
   name: "Wolfgang"
   surname: "Härdle"
@@ -18,10 +18,10 @@
   bio: '<p>Bio possibly here</p>'
   thumbnailUrl: 20141129_WKH.jpg
   rockstar: true
-  social: 
+  social:
     - {name: "github", link: "www.quantlet.de"}
 
-- 
+-
   id: 3
   name: "Milos"
   surname: "Kopa"
@@ -30,18 +30,29 @@
   bio: '<p>Bio possibly here</p>'
   thumbnailUrl: mk.jpg
   rockstar: true
-  social: 
+  social:
     - {name: "github", link: "www.quantlet.de"}
 
-
-- 
+-
   id: 4
+  name: "Weining"
+  surname: "Wang"
+  company: "City University London"
+  title: "Reader in Economics "
+  bio: '<p>Bio  here</p>'
+  thumbnailUrl: weining.jpeg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://www.city.ac.uk/people/academics/weining-wang"}
+
+-
+  id: 5
   name: "Yinggang"
   surname: "Zhou"
   company: "Xiamen University"
   title: "Professor of Finance "
-  bio: '<p>Bio possibly here</p>'
+  bio: '<p>Bio  here</p>'
   thumbnailUrl: zhou.jpg
   rockstar: false
-  social: 
+  social:
     - {name: "homepage", link: "http://wise.xmu.edu.cn/english/people/faculty/b92e3b32-409c-4747-80ce-661b848acd98.html"}
