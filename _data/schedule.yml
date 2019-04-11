@@ -1,47 +1,57 @@
-- 
+-
   date: "2019-09-30"
   dateReadable: "September 30"
-  tracks: 
+  tracks:
     - {title: "Session A", color: "#90be4e"}
   timeslots:
     - {
     	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [002]
+    	endTime: "10:05",
+    	sessionIds: [001]
     }
     - {
-        startTime: "11:00",
-        endTime: "11:45",
-        sessionIds: [003]
+        startTime: "TBA",
+        endTime: "TBA",
+        sessionIds: [006]
     }
-    - {
-    	startTime: "12:00",
-    	endTime: "12:45",
-    	sessionIds: [307]
-    }
-- 
+    # - {
+    # 	startTime: "TBA",
+    # 	endTime: "TBA",
+    # 	sessionIds: [003]
+    # }
+    # - {
+    # 	startTime: "TBA",
+    # 	endTime: "TBA",
+    # 	sessionIds: [307]
+    # }
+-
   date: "2019-10-01"
   dateReadable: "October 1"
-  tracks: 
+  tracks:
     - {title: "Session B", color: "#90be4e"}
-  timeslots: 
+  timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [002]
+    	startTime: "TBA",
+    	endTime: "TBA",
+    	sessionIds: [005]
     }
-    - {
-    	startTime: "11:00",
-    	endTime: "11:45",
-    	sessionIds: [003]
-    }
-    - {
-        startTime: "13:00",
-        endTime: "13:45",
-        sessionIds: [503]
-    }
-    - {
-    	startTime: "14:00",
-    	endTime: "15:00",
-    	sessionIds: [307]
-    }
+    # - {
+    # 	startTime: "TBA",
+    # 	endTime: "TBA",
+    # 	sessionIds: [005]
+    # }
+    # - {
+    # 	startTime: "TBA",
+    # 	endTime: "TBA",
+    # 	sessionIds: [006]
+    # }
+    # - {
+    #     startTime: "TBA",
+    #     endTime: "TBA",
+    #     sessionIds: [503]
+    # }
+    # - {
+    # 	startTime: "TBA",
+    # 	endTime: "TBA",
+    # 	sessionIds: [307]
+    # }

@@ -56,3 +56,15 @@
   rockstar: false
   social:
     - {name: "homepage", link: "http://wise.xmu.edu.cn/english/people/faculty/b92e3b32-409c-4747-80ce-661b848acd98.html"}
+
+-
+  id: 6
+  name: "Georg"
+  surname: "Keilbar"
+  company: "Humboldt-Universität zu Berlin"
+  title: "PhD student "
+  bio: '<p>Bio </p>'
+  thumbnailUrl: georg.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/participating-faculty/students/personal-pages/georg-keilbar/georg-keilbar"}

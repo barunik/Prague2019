@@ -11,19 +11,28 @@
   service: true
 
 -
-  id: 002
-  title: ""
+  id: 001
+  title: "Introduction"
   description: "info here"
-  subtype: presentation
+  subtype: Presentation
   speakers: [1]
   language: en
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
+  id: 002
+  title: "presentation"
+  description: "info here"
+  subtype: Presentation
+  speakers: [2]
+  language: en
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+
+-
   id: 003
   title: "presentation"
   description: "info here"
-  subtype: presentation
-  speakers: [2]
+  subtype: Presentation
+  speakers: [3]
   language: en
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 
@@ -31,7 +40,25 @@
   id: 004
   title: "presentation"
   description: "info here"
-  subtype: presentation
-  speakers: [3]
+  subtype: Presentation
+  speakers: [4]
   language: en
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+
+-
+  id: 005
+  title: "presentation"
+  description: "info here"
+  subtype: Presentation
+  speakers: [5]
+  language: en
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+
+-
+  id: 006
+  title: "Testing for neglected nonlinearity in the conditional quantile using neural networks"
+  description: "info"
+  subtype: Presentation
+  speakers: [6]
+  language: en
+  presentation: /Prague2019/assets/20190411_QNN-Test_Abstract.pdf
