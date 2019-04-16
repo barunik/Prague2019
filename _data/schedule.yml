@@ -35,11 +35,11 @@
     	endTime: "TBA",
     	sessionIds: [005]
     }
-    # - {
-    # 	startTime: "TBA",
-    # 	endTime: "TBA",
-    # 	sessionIds: [005]
-    # }
+    - {
+     	startTime: "TBA",
+     	endTime: "TBA",
+     	sessionIds: [007]
+    }
     # - {
     # 	startTime: "TBA",
     # 	endTime: "TBA",

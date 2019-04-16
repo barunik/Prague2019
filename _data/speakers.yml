@@ -4,18 +4,23 @@
   surname: "Barunik"
   company: "IES FSV UK, UTIA AV CR"
   title: "Associate Professor"
-  bio: "bio possibly here"
+  bio: "Jozef Baruník is an Associate Professor at the Institute of Economic Studies, Charles University in Prague.
+  He also serves as a head of the Econometrics department at the Czech Academy of Sciences. In his research,
+  he develops mathematical models for understanding financial problems (such as measuring and managing financial risk),
+  develops statistical methods and analyzes financial data. Especially, he is interested in asset pricing, high-frequency data,
+  financial econometrics, machine learning, high-dimensional financial data sets (big data), and frequency domain econometrics
+  (cyclical properties and behavior of economic variables)."
   thumbnailUrl: Barunik_profil.jpg
   rockstar: true
   social:
-    - {name: "github", link: "https://github.com/barunik"}
+    - {name: "github", link: "https://barunik.github.io"}
 -
   id: 2
   name: "Wolfgang"
   surname: "Härdle"
   company: "C.A.S.E. HU"
   title: "Professor"
-  bio: '<p>Bio possibly here</p>'
+  bio: '<p></p>'
   thumbnailUrl: 20141129_WKH.jpg
   rockstar: true
   social:
@@ -27,7 +32,7 @@
   surname: "Kopa"
   company: "MFF UK"
   title: "Associate Professor"
-  bio: '<p>Bio possibly here</p>'
+  bio: '<p></p>'
   thumbnailUrl: mk.jpg
   rockstar: true
   social:
@@ -39,7 +44,7 @@
   surname: "Wang"
   company: "City University London"
   title: "Reader in Economics "
-  bio: '<p>Bio  here</p>'
+  bio: '<p></p>'
   thumbnailUrl: weining.jpeg
   rockstar: false
   social:
@@ -51,7 +56,7 @@
   surname: "Zhou"
   company: "Xiamen University"
   title: "Professor of Finance "
-  bio: '<p>Bio  here</p>'
+  bio: '<p></p>'
   thumbnailUrl: zhou.jpg
   rockstar: false
   social:
@@ -63,8 +68,20 @@
   surname: "Keilbar"
   company: "Humboldt-Universität zu Berlin"
   title: "PhD student "
-  bio: '<p>Bio </p>'
+  bio: '<p> </p>'
   thumbnailUrl: georg.jpg
   rockstar: false
   social:
     - {name: "homepage", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/participating-faculty/students/personal-pages/georg-keilbar/georg-keilbar"}
+
+-
+  id: 7
+  name: "Ostap"
+  surname: "Okhrin"
+  company: "Technische Universit at Dresden"
+  title: "Professor"
+  bio: '<p> </p>'
+  thumbnailUrl: ostap.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://tu-dresden.de/bu/verkehr/ivw/osv/die-professur/inhaber-in"}

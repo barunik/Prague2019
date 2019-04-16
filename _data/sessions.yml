@@ -62,3 +62,21 @@
   speakers: [6]
   language: en
   presentation: /Prague2019/assets/20190411_QNN-Test_Abstract.pdf
+
+-
+  id: 007
+  title: "Micro Forecasting"
+  description: 'Authors: Matus Maciak, Ostap Okhrin, Michal Pesta<br/>
+  <p>Abstract:  Forecasting costs is now a front burner in empirical economics. We propose an unconventional tool for stochastic
+  prediction of future expenses based on individual (micro) developments of recorded events. Let us think of a firm, enterprise,
+  institution, or state, which possesses knowledge about particular historical events. For each event, there are several related
+  payments or losses spread over time. Nevertheless, the issue is that some already occurred events do not have to be necessarily
+  reported. The aim lies in forecasting future cash flows coming from already reported, occurred but not reported, and yet not occurred
+  events. Our methodology is illustrated on quantitative risk assessment, however, it can be applied to other areas such as startups,
+  epidemics, war damages, advertising and commercials, credit cards, or prescription behavior of general practitioners as discussed in
+  the paper. As a theoretical contribution, stochastic inference for marked non-homogeneous Poisson process with non homogeneous Poisson
+  processes as marks is developed.</p>'
+  subtype: Presentation
+  speakers: [7]
+  language: en
+  #presentation: /Prague2019/assets/20190411_QNN-Test_Abstract.pdf
