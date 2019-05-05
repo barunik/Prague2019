@@ -47,8 +47,9 @@
 
 -
   id: 005
-  title: "presentation"
-  description: "info here"
+  title: "Cross-border Lending Network and Systemic Risk Across Global Stock Markets"
+  description: "Authors: Yongshi Jie and Yinggang Zhou<br/>
+  <p>Abstract:  This paper examines whether systemic risk of cross-border lending network can propagate to risk spillover network of global stock market. We find that the stock market risk spillover network is more stable (fragile) if the cross-border lending network becomes more diversified when the shock is small (big) enough. Moreover, the higher the ratio of cross-border lending to the GDP of the countries which borrow, the bigger impact of risk spillover on the countries which lend more. Finally, the exponential random graph model (ERGM) is used to interpret the relationship between two networks. The connections in cross-border lending network have a significantly positive on the likelihood of spillover effect relations in global stock market.</p>"
   subtype: Presentation
   speakers: [5]
   language: en
