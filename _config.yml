@@ -8,7 +8,6 @@ markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
-
 # Site Settings
 title: "STAT of ML 2019"
 email: "barunik@fsv.cuni.cz"
@@ -56,10 +55,10 @@ navigationLinks:
 
 # Hero Block
 heroImage: "sixwaysandco.jpg" # "Meter-Data-Management-Itron.jpg" # Big-Data-570x300.jpg" #hero.jpg"
-heroTitle: "STAT of ML <typeout> 2019"
-#eventDate: "September 29 - October 2, 2019"
-typeoutTextValues: '"", "(Sep 30 - Oct 1)", ""'
-typeoutFallback: "(Sep 30 - Oct 1)"
+heroTitle: "<typeout>"
+eventDate: "September 29 - October 2, 2019"
+typeoutTextValues: '"STAT of ML", "Statistics of Machine Learning", "STAT of ML"'
+typeoutFallback: "Statistics of Machine Learning"
 #heroButtons:
 # - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
@@ -69,7 +68,7 @@ aboutTitle: "Sep 30 - Oct 1, 2019 in Prague"
 aboutBlock:
  - {title: "Statistics", image: "conference.jpg", text: "" }
  - {title: "Machine Learning", image: "workshop.jpg", text: "" }
- - {title: "Finance", image: "hackathon.jpg", "" }
+ - {title: "Digital Finance", image: "hackathon.jpg", "" }
 
 # Statistic Block
 #statisticBlockImage: "statistic.jpg"
@@ -249,4 +248,3 @@ directionDetailsCards:
  #    - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
  #    - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
  #    - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-

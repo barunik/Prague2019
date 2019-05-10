@@ -1,8 +1,19 @@
 -
   id: 1
+  name: "Wolfgang Karl"
+  surname: "Härdle"
+  company: "Humboldt-Universität zu Berlin"
+  title: "Professor"
+  bio: '<p></p>'
+  thumbnailUrl: 20141129_WKH.jpg
+  rockstar: true
+  social:
+    - {name: "github", link: "www.quantlet.de"}
+-
+  id: 2
   name: "Jozef"
   surname: "Barunik"
-  company: "IES FSV UK, UTIA AV CR"
+  company: "Charles University"
   title: "Associate Professor"
   bio: "Jozef Baruník is an Associate Professor at the Institute of Economic Studies, Charles University in Prague.
   He also serves as a head of the Econometrics department at the Czech Academy of Sciences. In his research,
@@ -14,23 +25,12 @@
   rockstar: true
   social:
     - {name: "github", link: "https://barunik.github.io"}
--
-  id: 2
-  name: "Wolfgang Karl"
-  surname: "Härdle"
-  company: "C.A.S.E. HU"
-  title: "Professor"
-  bio: '<p></p>'
-  thumbnailUrl: 20141129_WKH.jpg
-  rockstar: true
-  social:
-    - {name: "github", link: "www.quantlet.de"}
 
 -
   id: 3
   name: "Milos"
   surname: "Kopa"
-  company: "MFF UK"
+  company: "Charles University"
   title: "Associate Professor"
   bio: '<p></p>'
   thumbnailUrl: mk.jpg
@@ -64,15 +64,16 @@
 
 -
   id: 6
-  name: "Georg"
-  surname: "Keilbar"
+  name: "Vladimir"
+  surname: "Spokoiny"
   company: "Humboldt-Universität zu Berlin"
-  title: "PhD student "
+  title: "Professor"
   bio: '<p> </p>'
-  thumbnailUrl: georg.jpg
+  thumbnailUrl: spokoiny.jpg
   rockstar: false
   social:
-    - {name: "homepage", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/participating-faculty/students/personal-pages/georg-keilbar/georg-keilbar"}
+    - {name: "homepage", link: "http://www.wias-berlin.de/people/spokoiny/"}
+
 
 -
   id: 7
@@ -85,3 +86,16 @@
   rockstar: false
   social:
     - {name: "homepage", link: "https://tu-dresden.de/bu/verkehr/ivw/osv/die-professur/inhaber-in"}
+
+
+-
+  id: 30
+  name: "Georg"
+  surname: "Keilbar"
+  company: "Humboldt-Universität zu Berlin"
+  title: "PhD student "
+  bio: '<p> </p>'
+  thumbnailUrl: georg.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/participating-faculty/students/personal-pages/georg-keilbar/georg-keilbar"}

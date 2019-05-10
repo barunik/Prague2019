@@ -1,27 +1,31 @@
--
-  id: 307
-  title: "Coffee Break"
-  place: "Hall"
-  service: true
-  description: "The best time to talk with speakers and attendees"
--
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
-  service: true
+
+##### presentations
 
 -
   id: 001
-  title: "Introduction"
-  description: "info here"
+  title: "Dynamic Network Perspective of Cryptocurrencies"
+  description: "Authors: Li Guo, Yubo Tao and Wolfgang K. Härdle<br/>
+  <p>Abstract:  Cryptocurrencies are becoming an attractive asset class and are the focus of recent
+  quantitative research. The joint dynamics of the cryptocurrency market yields information on network risk.
+  Utilizing the adaptive LASSO approach, we build a dynamic network of cryptocurrencies and model the latent
+  communities with a dynamic stochastic blockmodel. We develop a dynamic covariate-assisted spectral
+  clustering method to uniformly estimate the latent group membership of cryptocurrencies consistently.
+  We show that return inter-predictability and crypto characteristics, including hashing algorithms
+  and proof types, jointly determine the crypto market segmentation. Based on this classification result,
+  it is natural to employ eigenvector centrality to identify a cryptocurrency’s idiosyncratic risk.
+  n asset pricing analysis finds that a cross-sectional portfolio with a higher centrality earns a
+  higher risk premium. Further tests confirm that centrality serves as a risk factor well and delivers
+  valuable information content on cryptocurrency markets.</p>"
   subtype: Presentation
   speakers: [1]
   language: en
-  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  presentation: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/results/discussion-papers/discussion-papers-2017-1/irtg1792dp2019-009.pdf"
+
 -
   id: 002
-  title: "presentation"
-  description: "info here"
+  title: "Asset Pricing using Time-Frequency Dependent Network Centrality"
+  description: "Authors: Jozef Barunik, Michael Ellington<br/>
+  <p>Abstract:  TBA</p>"
   subtype: Presentation
   speakers: [2]
   language: en
@@ -29,7 +33,7 @@
 
 -
   id: 003
-  title: "presentation"
+  title: "TBA"
   description: "info here"
   subtype: Presentation
   speakers: [3]
@@ -38,18 +42,32 @@
 
 -
   id: 004
-  title: "presentation"
-  description: "info here"
+  title: "Using generalized estimating equations to estimate nonlinear models with spatial data"
+  description: "Authors: Cuicui Lu, Weining Wang, Jeffrey M. Wooldridge<br/>
+  <p>Abstract:  We study estimation of nonlinear models with cross sectional data using two-step generalized
+  estimating equations (GEE) in the quasi-maximum likelihood estimation (QMLE) framework. In the interest of
+  improving efficiency, we propose a grouping estimator to account for the potential spatial correlation in
+  the underlying innovations for count data and binary response data. Under mild weak dependency assumptions,
+  results on estimation consistency and asymptotic normality are provided. Monte Carlo simulations show
+  efficiency gain of our approach in comparison of different estimation methods. Finally we apply the GEE
+  approach to study the determinants of the inflow foreign direct investment (FDI) to China.</p>"
   subtype: Presentation
   speakers: [4]
   language: en
-  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  presentation: "https://arxiv.org/abs/1810.05855"
 
 -
   id: 005
   title: "Cross-border Lending Network and Systemic Risk Across Global Stock Markets"
   description: "Authors: Yongshi Jie and Yinggang Zhou<br/>
-  <p>Abstract:  This paper examines whether systemic risk of cross-border lending network can propagate to risk spillover network of global stock market. We find that the stock market risk spillover network is more stable (fragile) if the cross-border lending network becomes more diversified when the shock is small (big) enough. Moreover, the higher the ratio of cross-border lending to the GDP of the countries which borrow, the bigger impact of risk spillover on the countries which lend more. Finally, the exponential random graph model (ERGM) is used to interpret the relationship between two networks. The connections in cross-border lending network have a significantly positive on the likelihood of spillover effect relations in global stock market.</p>"
+  <p>Abstract:  This paper examines whether systemic risk of cross-border lending network can propagate to
+  risk spillover network of global stock market. We find that the stock market risk spillover network is more
+  stable (fragile) if the cross-border lending network becomes more diversified when the shock is small (big)
+   enough. Moreover, the higher the ratio of cross-border lending to the GDP of the countries which borrow,
+   the bigger impact of risk spillover on the countries which lend more. Finally, the exponential random graph
+   model (ERGM) is used to interpret the relationship between two networks. The connections in cross-border
+   lending network have a significantly positive on the likelihood of spillover effect relations in global
+   stock market.</p>"
   subtype: Presentation
   speakers: [5]
   language: en
@@ -57,12 +75,12 @@
 
 -
   id: 006
-  title: "Testing for neglected nonlinearity in the conditional quantile using neural networks"
-  description: "info"
+  title: "TBA"
+  description: "info here"
   subtype: Presentation
   speakers: [6]
   language: en
-  presentation: /Prague2019/assets/20190411_QNN-Test_Abstract.pdf
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 
 -
   id: 007
@@ -81,3 +99,73 @@
   speakers: [7]
   language: en
   #presentation: /Prague2019/assets/20190411_QNN-Test_Abstract.pdf
+
+-
+  id: 030
+  title: "Testing for neglected nonlinearity in the conditional quantile using neural networks"
+  description: "Authors: Georg Keilbar, Weining Wang<br/>
+  <p>Abstract:  Neural networks have proved to achieve tremendous success in a large number of prediction problems.
+  Unfortunately, this success comes at the expense of imposing challenges for the interpretation of models and for
+  conducting inference in general. In this paper, we propose a test for neglected nonlinearity in the conditional
+  quantile by comparing the fit of a linear model to an alternative model constructed as a neural network series
+  estimator. The problem can be formulated as a significance test of the output weight parameters of the neural
+  network in the presence of nuisance parameters under the alternative. We provide consistency and asymptotic
+  normality of the neural network series estimator. We propose three test statistics as functions of a Wald
+  process depending on the nuisance parameters the average, the exponential average and the supremum Wald
+  statistic. Critical values can be simulated. Simulations show that our test has proper size and good power.
+  An application to analysis of systemic risk in a financial network indicates an important role of neglected
+  nonlinearity.</p>"
+  subtype: Presentation
+  speakers: [30]
+  language: en
+  presentation: /Prague2019/assets/20190411_QNN-Test_Abstract.pdf
+
+
+
+
+
+###### The rest
+
+
+-
+  id: 000
+  title: "TBA"
+  description: "TBA"
+  subtype: Presentation
+  language: en
+
+-
+  id: 101
+  title: "Coffee Break"
+  place: "Hall"
+  service: true
+  description: "The best time to talk with speakers and attendees"
+
+-
+  id: 102
+  title: "Lunch Break"
+  place: "Dining room (onsite)"
+  service: true
+
+-
+  id: 103
+  title: "Dinner"
+  place: "Restaurant TBA"
+  service: true
+
+-
+  id: 901
+  title: "Prologue"
+  description: "info here"
+  subtype: Presentation
+  speakers: [1,2,3]
+  language: en
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+-
+  id: 902
+  title: "Epilogue"
+  description: "info here"
+  subtype: Presentation
+  speakers: [1,2,3]
+  language: en
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
