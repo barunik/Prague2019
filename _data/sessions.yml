@@ -2,6 +2,16 @@
 ##### presentations
 
 -
+  id: 000
+  title: "TBA"
+  description: "Authors: Oliver Linton<br/>
+  <p>Abstract:  TBA.</p>"
+  subtype: Presentation
+  speakers: [0]
+  language: en
+  presentation: "https://"
+
+-
   id: 001
   title: "Dynamic Network Perspective of Cryptocurrencies"
   description: "Authors: Li Guo, Yubo Tao and Wolfgang K. Härdle<br/>
@@ -97,6 +107,16 @@
   processes as marks is developed.</p>'
   subtype: Presentation
   speakers: [7]
+  language: en
+  #presentation: /Prague2019/assets/20190411_QNN-Test_Abstract.pdf
+
+-
+  id: 008
+  title: "Is there informed trading in CC? A sentiment study on twitters"
+  description: 'Authors: Ying Chen<br/>
+  <p>Abstract:  TBA.</p>'
+  subtype: Presentation
+  speakers: [8]
   language: en
   #presentation: /Prague2019/assets/20190411_QNN-Test_Abstract.pdf
 

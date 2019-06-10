@@ -1,3 +1,16 @@
+
+-
+  id: 0
+  name: "Oliver"
+  surname: "Linton"
+  company: "Trinity College, University of Cambridge"
+  title: "Professor"
+  bio: '<p></p>'
+  thumbnailUrl: linton.jpg
+  rockstar: true
+  social:
+    - {name: "Personal Site", link: "https://obl20.com"}
+
 -
   id: 1
   name: "Wolfgang Karl"
@@ -86,6 +99,19 @@
   rockstar: false
   social:
     - {name: "homepage", link: "https://tu-dresden.de/bu/verkehr/ivw/osv/die-professur/inhaber-in"}
+
+-
+  id: 8
+  name: "Ying"
+  surname: "Chen"
+  company: "National University of Singapore"
+  title: "Associate Professor"
+  bio: '<p> </p>'
+  thumbnailUrl: Ying_Chen.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "http://www.nus.edu.sg/ngs/sup_CHEN_Ying.html"}
+
 
 
 -
