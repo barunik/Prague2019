@@ -120,6 +120,14 @@
   language: en
   presentation: /Prague2019/assets/20190411_QNN-Test_Abstract.pdf
 
+-
+  id: 031
+  title: "Heterogeneous Treatment Effects through Teaching Activity on Satisfaction for Intellectual Challenge"
+  description: "Authors: Daniel Jacob<br/>
+  <p>Abstract:  Scientists who give lectures or seminars might be more prone to developing new ideas for their research through the interaction with students during their teaching activities. In this paper, I estimate heterogeneous treatment effects of teaching on the perceived degree of intellectual challenge of scientists using data from the National Science Foundation (NSF). To provide as much information about the causal effects as possible and also to control for a potential selection-bias, I expand the idea of making inference on key features of heterogeneous effects sorted by impact groups (GATES), to non-randomised experiments. This is achieved through the implementation of a doubly-robust estimator. Cross-splitting with multiple iter- ations is a further extension to avoid biases introduced through sample splitting. The advantage of the proposed method is the robust estimation of heterogeneous treatment effects which is comparable with other models and thus keeps its flexibility in the choice of machine learning methods and at the same time its ability to deliver interpretable results. The empirical findings support the hypothesis that teaching activities, conducted by scientists, have a causal effect on the satisfaction with the job’s intellectual challenge. The difference in the satisfaction (scaled from 1 for very dissatisfied to 4 for very satisfied) is 0.14 between the most and least affected scientists. I conduct a classification analysis to provide insight into the average values of such key features, again for the most and least affected. Finally, I estimate the conditional average treatment effect for each individual, which allows making predic- tions of the treatment effect for new scientists. I find that there is heterogeneity in the treatment effect which is positive for the majority and negative for some scientists.</p>"
+  subtype: Presentation
+  speakers: [31]
+  language: en
 
 
 

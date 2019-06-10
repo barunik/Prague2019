@@ -93,9 +93,21 @@
   name: "Georg"
   surname: "Keilbar"
   company: "Humboldt-Universität zu Berlin"
-  title: "PhD student "
+  title: "PhD student"
   bio: '<p> </p>'
   thumbnailUrl: georg.jpg
   rockstar: false
   social:
     - {name: "homepage", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/participating-faculty/students/personal-pages/georg-keilbar/georg-keilbar"}
+
+-
+  id: 31
+  name: "Daniel"
+  surname: "Jacob"
+  company: "Humboldt-Universität zu Berlin"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: jacob.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/participating-faculty/students/personal-pages/daniel-jacob/daniel-jacob"}
