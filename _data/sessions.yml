@@ -149,7 +149,23 @@
   speakers: [31]
   language: en
 
+-
+  id: 032
+  title: "Dynamic density forecasting using machine learning"
+  description: "Authors: Lubos Hanus and Jozef Barunik<br/>
+  <p>Abstract:  TBA.</p>"
+  subtype: Presentation
+  speakers: [32]
+  language: en
 
+-
+  id: 033
+  title: "Asset Pricing with Quantile Machine Learning"
+  description: "Authors: Martin Hronec and Jozef Barunik<br/>
+  <p>Abstract:  TBA.</p>"
+  subtype: Presentation
+  speakers: [33]
+  language: en
 
 
 ###### The rest

@@ -137,3 +137,28 @@
   rockstar: false
   social:
     - {name: "homepage", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/participating-faculty/students/personal-pages/daniel-jacob/daniel-jacob"}
+
+
+-
+  id: 32
+  name: "Lubos"
+  surname: "Hanus"
+  company: "Charles University"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: hanus.png
+  rockstar: false
+  social:
+    - {name: "homepage", link: "http://ies.fsv.cuni.cz/en/staff/hanusl"}
+
+-
+  id: 33
+  name: "Martin"
+  surname: "Hronec"
+  company: "Charles University"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: hronec.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "http://ies.fsv.cuni.cz/en/staff/hronec"}
