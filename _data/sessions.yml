@@ -85,8 +85,9 @@
 
 -
   id: 006
-  title: "TBA"
-  description: "info here"
+  title: "Optimal stopping and control using reinforcement learning"
+  description: "Authors: Vladimir Spokoiny<br/>
+  <p>Abstract: TBA.</p>"
   subtype: Presentation
   speakers: [6]
   language: en
