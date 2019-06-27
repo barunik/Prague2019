@@ -113,6 +113,27 @@
     - {name: "homepage", link: "http://www.nus.edu.sg/ngs/sup_CHEN_Ying.html"}
 
 
+-
+  id: 28
+  name: "Diana"
+  surname: "Hristova"
+  company: "Deutsche Bank AG"
+  title: "Senior Analyst"
+  bio: '<p> </p>'
+  thumbnailUrl: hristova.jpg
+  rockstar: false
+  #social:
+  #  - {name: "homepage", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/participating-faculty/students/personal-pages/georg-keilbar/georg-keilbar"}
+
+-
+  id: 29
+  name: "Steffen"
+  surname: "Thesdorf"
+  company: "Deutsche Bank AG"
+  title: "PhD Student"
+  bio: '<p> </p>'
+  thumbnailUrl: thesdorf.jpg
+  rockstar: false
 
 -
   id: 30
