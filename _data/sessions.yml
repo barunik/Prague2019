@@ -131,13 +131,20 @@
   language: en
 
 -
-    id: 029
-    title: "Rating Ordinality in ML Based Credit Models"
-    description: 'Authors: Steffen Thesdorf<br/>
-    <p>Abstract:  TBA.</p>'
-    subtype: Presentation
-    speakers: [29]
-    language: en
+
+  id: 029
+  title: "Rating Ordinality in ML Based Credit Models"
+  description: "Authors: Steffen Thesdorf<br/>
+  <p>Abstract:  The credit rating as a measure of a company's ability to pay back its liabilities is a crucial information source, e.g. for bond investors. There have been numerous attempts to
+  reproduce credit ratings by objective models, that is without any (presumably costly) expert judgment. A comprehensive literature review of studies on corporate credit rating models reveals that a wide
+  range of flexible machine learning models are applied to the credit rating domain which however usually neglect the rating ordinality. The objective of present study is to find an answer to the
+  question whether the consideration of the order information improves the prediction performance of the rating models. The Ordinal Pairwise Partitioning (OPP) approach is shown to be a straightforward
+  enhancement to allow a nominal classification model to account for output ordinality. The nominal classification versions of the machine learning models are hence compared with their OPP counterparts
+  by applying all models to a Deutsche Bank dataset. The results are ambiguous. Whereas Ordered Partitions (OP), as one variant of OPP, proves to promote the prediction accuracy, the OPP variants
+  One-vs-Followers (OVF) and One-vs-Next (OVN) yield inferior outcomes.</p>"
+  subtype: Presentation
+  speakers: [29]
+  language: en
 -
   id: 030
   title: "Testing for neglected nonlinearity in the conditional quantile using neural networks"
