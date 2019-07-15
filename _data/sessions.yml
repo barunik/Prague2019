@@ -114,6 +114,7 @@
 -
   id: 008
   title: "Is there informed trading in CC? A sentiment study on twitters"
+  ##### WANTS TO PRESENT SEP 30 MONDAY !!!!
   description: 'Authors: Ying Chen<br/>
   <p>Abstract:  TBA.</p>'
   subtype: Presentation
@@ -124,8 +125,18 @@
 -
   id: 028
   title: "RatingBot: A Text Mining Based Rating Approach"
+  ##### WANTS TO PRESENT SEP 30 MONDAY !!!!
   description: 'Authors: Diana Hristova<br/>
-  <p>Abstract:  TBA.</p>'
+  <p>Abstract:  Credit risk is at the core of banking business and its adequate measurement is crucial for financial institutions.
+  Due to lack of historical default data and heterogeneity of customers, qualitative expert-based information
+  is an important factor in measuring the creditworthiness of large companies. However, such information is
+  often extracted manually, causing inefficiencies and possible subjectivity. The RatingBot is a text mining
+  based rating approach, which efficiently and objectively models relevant qualitative information based
+  on annual reports. It combines both the literature on text mining in finance and machine learning in c
+  redit rating to derive the credit rating of a company. The approach is evaluated on two datasets:
+  a publicly available one that facilitates replicability, and a dataset provided by a major
+  European bank representing real-world scenario. The results show that RatingBot delivers additional
+  predictive power and should be considered in future research on credit rating models.</p>'
   subtype: Presentation
   speakers: [28]
   language: en
