@@ -7,7 +7,7 @@
   title: "Professor"
   bio: '<p></p>'
   thumbnailUrl: linton.jpg
-  rockstar: true
+  rockstar: false
   social:
     - {name: "Personal Site", link: "https://obl20.com"}
 
