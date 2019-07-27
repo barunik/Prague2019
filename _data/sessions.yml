@@ -203,6 +203,26 @@
   speakers: [33]
   language: en
 
+-
+  id: 034
+  title: "Uniform Inference in High-dimensional Gaussian Graphical Models"
+  description: "Authors: Sven Klaassen, Jannis Kueck, Martin Spindler and Victor Chernozhukov<br/>
+  <p>Abstract:  Graphical models have become a very popular tool for representing dependencies within a
+  large set of variables and are key for representing causal structures. We provide results for uniform
+  inference on high-dimensional graphical models with the number of target parameters d being
+  possible much larger than sample size. This is in particular important when certain features or
+  structures of a causal model should be recovered. Our results highlight how in high- dimensional
+  settings graphical models can be estimated and recovered with modern machine learning methods in
+  complex data sets. To con- struct simultaneous confidence regions on many target parameters, sufficiently
+  fast estimation rates of the nuisance functions are crucial. In this context, we establish uniform
+  estimation rates and sparsity guarantees of the square-root estimator in a random design under
+  approximate sparsity conditions that might be of independent inter- est for related problems in
+  high-dimensions. We also demonstrate in a comprehensive simulation study that our procedure has
+  good small sample properties.</p>"
+  subtype: Presentation
+  speakers: [34]
+  language: en
+
 
 ###### The rest
 
