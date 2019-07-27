@@ -223,6 +223,14 @@
   speakers: [34]
   language: en
 
+-
+  id: 035
+  title: "Uniform Inference in High-dimensional Gaussian Graphical Models"
+  description: "Authors: Jovanka Lili Matic<br/>
+  <p>Abstract:  TBA.</p>"
+  subtype: Presentation
+  speakers: [35]
+  language: en
 
 ###### The rest
 

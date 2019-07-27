@@ -195,3 +195,14 @@
   rockstar: false
   social:
     - {name: "homepage", link: "https://www.bwl.uni-hamburg.de/statistik/team/kueck.html"}
+
+id: 35
+name: "Jovanka"
+surname: "Lili Matic"
+company: "Humboldt-Universität zu Berlin"
+title: "PhD student"
+bio: '<p> </p>'
+thumbnailUrl: jannis.jpg
+rockstar: false
+social:
+  - {name: "homepage", link: "https://www.bwl.uni-hamburg.de/statistik/team/kueck.html"}
