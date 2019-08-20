@@ -232,6 +232,19 @@
   speakers: [35]
   language: en
 
+-
+  id: 036
+  title: "Exploring the dynamic relationships between Fintech and other Traditional Finance"
+  description: "Authors: Yuxuan Chen, Chungchieh Cheng, Huimin Chung<br/>
+  <p>Abstract:  We study the dynamic relationship between Fintech and other traditional finance.
+  During 2018, we find that the total spillover is strong, which reflects the external economic activity
+  and financial event effects with time. In the study period, we also find the FINX is getting
+  interconnect to other traditional finance. The FINX is not a driving force for other financial
+  ETF spillovers, but the impact of FINX on other financial ETFs is getting stronger.</p>"
+  subtype: Presentation
+  speakers: [36]
+  language: en
+
 ###### The rest
 
 

@@ -207,3 +207,15 @@
   rockstar: false
   social:
     - {name: "homepage", link: "https://www.bwl.uni-hamburg.de/statistik/team/kueck.html"}
+
+-
+  id: 36
+  name: "Yuxuan"
+  surname: "Chen"
+  company: "National Chiao Tung University"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: yuxuan.jpg
+  rockstar: false
+  #social:
+  #  - {name: "homepage", link: "https://www.bwl.uni-hamburg.de/statistik/team/kueck.html"}
