@@ -245,6 +245,16 @@
   speakers: [36]
   language: en
 
+-
+  id: 037
+  ##### WANTS TO PRESENT OCT 1 !!!!
+  title: "Shape-based domain adaptation via optimal transportation"
+  description: "Authors: Alexandra Suvorikova<br/>
+  <p>Abstract:  Domain adaptation problem aims at learning a well performing model, trained on a source data 𝑆 (images, vectors, e.t.c), applied then to different (but related) target sample 𝑇. Aside from being attractive due to obvious practical utility, the setting is challenging from theoretical point of view. In this work we introduce a novel approach to supervised domain adaptation consisting in a class-dependent fitting based on ideas from optimal transportation (OT) theory which considers 𝑆 and 𝑇 as two mixtures of distributions. A parametrized OT distance is used as a fidelity measure between 𝑆 and 𝑇, providing a toolbox for modelling of possibly independent perturbations of mixture components. The method is than used for describing the adaptation of immune system in humans after moving to another climatic zone.</p>"
+  subtype: Presentation
+  speakers: [37]
+  language: en
+
 ###### The rest
 
 
