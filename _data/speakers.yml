@@ -112,6 +112,41 @@
   social:
     - {name: "homepage", link: "http://www.nus.edu.sg/ngs/sup_CHEN_Ying.html"}
 
+-
+  id: 9
+  name: "Jan"
+  surname: "Vecer"
+  company: "Charles University"
+  title: "Associate Professor"
+  bio: '<p> </p>'
+  thumbnailUrl: vecer.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "http://www.karlin.mff.cuni.cz/~vecer/"}
+
+-
+  id: 10
+  name: "Michal"
+  surname: "Pesta"
+  company: "Charles University"
+  title: "Research Assistant"
+  bio: '<p> </p>'
+  thumbnailUrl: pesta.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "http://www.karlin.mff.cuni.cz/~pesta/"}
+
+-
+  id: 11
+  name: "Martin"
+  surname: "Branda"
+  company: "Charles University"
+  title: "Assistant Professor"
+  bio: '<p> </p>'
+  thumbnailUrl: branda.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "http://artax.karlin.mff.cuni.cz/~branm1am/indexEN.html"}
 
 -
   id: 28

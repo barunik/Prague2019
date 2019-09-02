@@ -123,6 +123,70 @@
   #presentation: /Prague2019/assets/20190411_QNN-Test_Abstract.pdf
 
 -
+  id: 009
+  title: "Utility Based Model Selection and Model Averaging (Including ML Models)"
+  description: 'Authors: Robert Navratil, Jan Vecer<br/>
+  <p>Abstract:  This talks presents a novel approach to model selection and model
+averaging based on economic theory. We study a model prediction in the
+form of a distributional opinion about a random variable $X$. We show
+how to test this prediction against any alternative views. Different
+model opinions can be traded on a hypothetical market that trades their
+differences. Using utility maximization technique, we describe such a
+market for any general random variable $X$ and any utility function $U$.
+We specify the optimal behavior of agents and the total market that
+aggregates all available opinions and show that a correct distributional
+opinion realizes profit in expectation against any other opinion, giving
+a novel technique for model selection. Analytical solutions are
+available for random variables from exponential family. We determine the
+distribution corresponding to the aggregated view of all available
+opinions, giving a novel technique for model averaging.</p>'
+  subtype: Presentation
+  speakers: [9]
+  language: en
+
+-
+  id: 010
+  title: "Nuisance-parameter-free changepoint detections"
+  description: 'Authors: Michal Pesta<br/>
+  <p>Abstract:  Many changepoint detection procedures rely on the estimation of nuisance
+parameters (like long-run variance). If a change has occurred,
+estimators might be biased and data-adaptive rules for the choice of
+tuning parameters might not work as expected. If the data is not
+stationary, this becomes more challenging. The aim of this paper is to
+present two changepoint tests, which involve neither nuisance nor tuning
+parameters. This is achieved by combing self-normalization and wild
+bootstrap. We investigate the asymptotic behavior and show the
+consistency of the bootstrap under the hypothesis as well as under the
+alternative, assuming mild conditions on the weak dependence of the time
+series. As a by-product, a changepoint estimator is introduced and its
+consistency is proved. The results are illustrated through a simulation
+study. The new completely data-driven tests are applied to real data
+examples from finance and hydrology.</p>'
+  subtype: Presentation
+  speakers: [10]
+  language: en
+
+-
+  id: 011
+  title: "Machine learning approach to chance-constrained problems:
+    An algorithm based on the stochastic gradient descent"
+  description: 'Authors: Martin Branda, Lukáš Adam<br/>
+  <p>Abstract:  We consider chance-constrained problems where the goal
+  is to get a highly reliable solution with respect to the realizations
+  of random elements. We focus on the problems with a large (huge) number
+  of scenarios. We propose a novel method based on the stochastic gradient
+  descent which performs updates of the decision variable based only on
+  looking at a few scenarios. We modify it to handle the non-separable objective.
+  A complexity analysis and a comparison with the standard (batch) gradient
+  descent method is provided. We give three examples with non-convex data which
+  include optimal design of gas network with random demand and stochastic optimal
+  control of electrostatic separator. We show that our method provides a good
+  solution fast even when the number of scenarios is large.</p>'
+  subtype: Presentation
+  speakers: [11]
+  language: en
+
+-
   id: 028
   title: "RatingBot: A Text Mining Based Rating Approach"
   ##### WANTS TO PRESENT SEP 30 MONDAY !!!!
