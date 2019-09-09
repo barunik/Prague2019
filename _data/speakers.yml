@@ -266,3 +266,39 @@
   rockstar: false
   social:
     - {name: "homepage", link: "https://www.math.uni-potsdam.de/professuren/mathematische-statistik/personen/alexandra-suvorikova/"}
+
+-
+  id: 38
+  name: "Tomas"
+  surname: "Rusy"
+  company: "Charles University"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: rusy.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "http://karlin.mff.cuni.cz/~rusy/"}
+
+-
+  id: 39
+  name: "Karel"
+  surname: "Kozmik"
+  company: "Charles University"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: kozmikkarel.jpg
+  rockstar: false
+  #social:
+  # - {name: "homepage", link: "http://karlin.mff.cuni.cz/~rusy/"}
+
+-
+  id: 40
+  name: "Vaclav"
+  surname: "Kozmik"
+  company: "HomeCredit, CR"
+  #title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: kozmik.jpg
+  rockstar: false
+  #social:
+  # - {name: "homepage", link: "http://karlin.mff.cuni.cz/~rusy/"}
