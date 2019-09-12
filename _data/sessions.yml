@@ -207,6 +207,31 @@ examples from finance and hydrology.</p>'
   language: en
 
 -
+  id: 012
+  title: "Resampling methods in change point analysis "
+  description: 'Authors: Zuzana Prášková<br/>
+  <p>Abstract:  Critical values of change point tests in linear/panel data models are
+usually based on  limit distribution of the respective test statistics
+under the null hypothesis. However, the limit distribution is  very
+often a functional of a Gaussian process and depends on unknown
+quantities  that cannot be easily estimated. In many situations,
+convergence to the asymptotic distribution is rather slow  and the
+asymptotic critical values are not well applicable in small and
+moderate  size samples. It has appeared that resampling methods provide
+reasonable approximations for critical values of test statistics for
+detection changes in linear models.
+Dependent wild bootstrap is a resampling procedure for dependent data
+that has been developed as an alternative to existing block-bootstrap
+methods with the aim to mimic the dependency structure of the analyzed
+data not only in the blocks but in the whole sample. A variant of this
+method is proposed to approximate critical values of  test statistics
+for detection a change in a dynamic panel data model with
+cross-sectional dependence.</p>'
+  subtype: Presentation
+  speakers: [12]
+  language: en
+
+-
   id: 028
   title: "RatingBot: A Text Mining Based Rating Approach"
   ##### WANTS TO PRESENT SEP 30 MONDAY !!!!

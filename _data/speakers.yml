@@ -149,6 +149,18 @@
     - {name: "homepage", link: "http://artax.karlin.mff.cuni.cz/~branm1am/indexEN.html"}
 
 -
+  id: 12
+  name: "Zuzana"
+  surname: "Prášková"
+  company: "Charles University"
+  title: "Professor"
+  bio: '<p> </p>'
+  thumbnailUrl: praskova.jpg
+  rockstar: false
+  #social:
+#    - {name: "homepage", link: "http://artax.karlin.mff.cuni.cz/~branm1am/indexEN.html"}
+
+-
   id: 28
   name: "Diana"
   surname: "Hristova"
