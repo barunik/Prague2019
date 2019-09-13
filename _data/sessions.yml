@@ -426,6 +426,30 @@ cross-sectional dependence.</p>'
     speakers: [40]
     language: en
 
+-
+    id: 041
+    title: "Random Forest Estimation of the Ordered Choice Model"
+    description: "Authors: Michael Lechner and Gabriel Okasa<br/>
+    <p>Abstract:  In econometrics so-called ordered choice models are popular when
+    interest is in the estimation of the probabilities of particular values of categorical
+    outcome variables with an inherent ordering, conditional on covariates. In this paper
+    we develop a new machine learning estimator based on the random forest algorithm for
+    such models without imposing any distributional assumptions. The proposed Ordered Forest
+    estimator provides a flexible estimation method of the conditional choice probabilities
+    that can naturally deal with nonlinearities in the data, while taking the ordering information
+    explicitly into account. In addition to common machine learning estimators, it enables the estimation
+    of marginal effects as well as conducting inference thereof and thus providing the same output as
+    classical econometric estimators based on ordered logit or probit models. An extensive simulation
+    study examines the finite sample properties of the Ordered Forest and reveals its good predictive performance,
+    particularly in settings with multicollinearity among the predictors and non-linear functional forms.
+    An empirical application further illustrates the estimation of the marginal effects and their standard
+    errors and demonstrates the advantages of the flexible estimation compared to a parametric benchmark model.</p>"
+    subtype: Presentation
+    speakers: [41]
+    language: en
+    presentation: "https://arxiv.org/abs/1907.02436"
+
+
 ###### The rest
 
 

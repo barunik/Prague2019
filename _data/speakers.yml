@@ -314,3 +314,15 @@
   rockstar: false
   #social:
   # - {name: "homepage", link: "http://karlin.mff.cuni.cz/~rusy/"}
+
+-
+  id: 41
+  name: "Gabriel"
+  surname: "Okasa"
+  company: "Universität St.Gallen"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: okasa.jpg
+  rockstar: false
+  #social:
+  # - {name: "homepage", link: "http://karlin.mff.cuni.cz/~rusy/"}
