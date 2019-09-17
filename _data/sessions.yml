@@ -133,14 +133,14 @@ Decreasing Risk Aversion. </p>"
 
 -
   id: 008
-  title: "Is there informed trading in CC? A sentiment study on twitters"
+  title: "Topic Sentiment Asset Pricing with DNN Supervised Learning"
   ##### WANTS TO PRESENT SEP 30 MONDAY !!!!
-  description: 'Authors: Ying Chen<br/>
-  <p>Abstract:  TBA.</p>'
+  description: 'Authors: Hitoshi Iwasaki and Ying Chen<br/>
+  <p>Abstract:  We develop an innovative deep neural network (DNN) supervised learning approach to extracting insightful topic sentiments from analyst reports at the sentence level and incorporating this qualitative knowledge in asset pricing and portfolio construction. The topic sentiment analysis is performed on 113,043 Japanese analyst reports and the topic sentiment asset pricing model delivers superior predictive power on stock returns with adjusted R2 increasing from 1.6% (benchmark model without sentiment) to 14.0% (in-sample) and 13.4% (out-of-sample). We find that topics reflecting the subjective opinions of analysts have greater impact than topics of objective facts and justification of the quantitative measures.</p>'
   subtype: Presentation
   speakers: [8]
   language: en
-  #presentation: /Prague2019/assets/20190411_QNN-Test_Abstract.pdf
+  presentation: http://dx.doi.org/10.2139/ssrn.3228485
 
 -
   id: 009
