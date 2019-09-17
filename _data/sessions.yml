@@ -419,9 +419,9 @@ cross-sectional dependence.</p>'
 
 -
     id: 040
-    title: "TBA"
+    title: "Application of Machine Learning methods in ranking and risk management"
     description: "Authors: Vaclav Kozmik<br/>
-    <p>Abstract: TBA.</p>"
+    <p>Abstract: In Southeast Asian market, 90% of e-commerce volume is driven by customers who shop online for the first time and consequently traditional recommendation engine approach is not applicable. While the number of items to be offered is enormous, it is essential to have good ranking solution to present the best goods on first page of results. We will present TaRank, ranking engine based on gradient boosting which is designed to solve these issues and it has be well proven by practice – increase of click through rates by 20%. Moreover, we will focus on how to apply gradient boosting algorithm in a conservative field of risk management. We will show that stable model which significantly outperforms logistic regression can be built and that such approach is applicable not only in banking, but also in other sectors.</p>"
     subtype: Presentation
     speakers: [40]
     language: en
