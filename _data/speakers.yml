@@ -326,3 +326,15 @@
   rockstar: false
   #social:
   # - {name: "homepage", link: "http://karlin.mff.cuni.cz/~rusy/"}
+
+-
+  id: 42
+  name: "Niels"
+  surname: "Wesselhöfft"
+  company: "Humboldt-Universität zu Berlin"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: niels.jpg
+  rockstar: false
+  #social:
+  # - {name: "homepage", link: "http://karlin.mff.cuni.cz/~rusy/"}
