@@ -3,13 +3,12 @@
 
 -
   id: 100
-  title: "TBA"
-  description: "Authors: Oliver Linton<br/>
-  <p>Abstract:  TBA.</p>"
+  title: "Estimation of a Parsimonious Multiplicative Covariance Structure"
+  description: "Authors: Oliver Linton, Christian Hafner and Haihan Tang"
   subtype: Presentation
   speakers: [100]
   language: en
-  presentation: "https://"
+  #presentation: "https://"
 
 -
   id: 001
@@ -451,9 +450,9 @@ cross-sectional dependence.</p>'
 
 -
     id: 042
-    title: "TBA"
-    description: "Authors: Niels Wesselhöfft<br/>
-    <p>Abstract:  TBA.</p>"
+    title: "Forecasting high-frequency stock market returns using embedded limit order book data"
+    description: "Authors: Marius Sterling, Niels Wesselhöfft<br/>
+    <p>Abstract:  In this paper we show that limit order book information for NASDAQ stocks can be utilized to forecast stock market returns in high sampling frequencies. Embedding the data of the limit order book is crucial for the model performance. Starting from linear regression with parametric, expert-judged embedding to Temporal Convolutional Nets (TCN) with raw data, we show that there is a trade-off between complexity in embedding and the complexity of the model. In accordance with the literature, using Layer Relevance Propagation (LRP) and Deep Taylor Decomposition, we show that order book levels closer the mid price are more relevant for the model performance.</p>"
     subtype: Presentation
     speakers: [42]
     language: en
