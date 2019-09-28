@@ -336,7 +336,9 @@ Machine Learning Evaluation."
   id: 035
   title: "Cryptocurrencies"
   description: "Authors: Jovanka Lili Matic<br/>
-  <p>Abstract:  TBA.</p>"
+  <p>Abstract:  The market for cryptocurrencies is a very dynamic market with high volatility movements and
+discontinuities from large jumps. We investigate the risk-management perspective when selling securities written on cryptocurrencies. To this day, options written on cryptocurrencies are not officially exchange-traded. This study mimics the dynamics of cryptocurrency markets in a simulation study. We assume that the asset follows the stochastic volatility with correlated jumps model and price options with parameters calibrated on the CRIX, a cryptocurrency index
+that serves as a representative of market movements. We investigate on risk-management opportunities of hedging options written on cryptocurrencies and evaluated the hedge performance under misspecified models. The hedge models are misspecified in the manner that they include fewer sources of randomness. We hedge with the industry-standard Black-Scholes option pricing model, the Heston Stochastic volatility model, and the Merton jump-diffusion model. We perform delta-hedging. We report poor hedges when calibration is poor. The results show a good performance in hedging with the Black-Scholes model and the Heston model. The study outlines the poor performance of the Merton model. We observe large unhedgeable losses in the left tail and consider these losses to result from large jumps.</p>"
   subtype: Presentation
   speakers: [35]
   language: en
